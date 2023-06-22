@@ -27,4 +27,5 @@
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIMGEUNDU&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+ [![KIMGEUNDU's GitHub](https://github-readme-stats.vercel.app/api?username=KIMGEUNDU&theme=vue&show_icons=true&custom_title=🐻‍❄️KIMGEUNDU's　Activity&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIMGEUNDU&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
