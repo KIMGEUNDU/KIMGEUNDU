@@ -1,6 +1,10 @@
 # 🦆 오늘보다 내일 더 성장하는 개발자
 
 안녕하세요! 프론트엔드 개발자 취업준비생 김건주입니다.
+<br>
+
+## 🏅 Education 🏅
+<img src="https://img.shields.io/badge/Techit_FE_Shcool-9999FF?style=for-the-badge&logo=lionair&logoColor=white">
 
 ## 🛠️ Stacks 🛠️  
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
@@ -12,7 +16,7 @@
 
 ## 📜 Tools 📜 
 <!-- VS  -->
-<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
 <br>
 
 ## 💻 About Me 💻 
