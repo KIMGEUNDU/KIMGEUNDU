@@ -1,6 +1,6 @@
 # 🦆 오늘보다 내일 더 성장하는 개발자
 
-안녕하세요! 프론트엔드 개발자 취업준비생 김건주입니다.
+안녕하세요! 사용자의 관점에서 접근성이 좋은지 원하는 정보를 빠르게 얻을 수 있는지를 고민하고, 개발자의 관점에서는 코드의 간결화를 통한 가독성, 재사용성을 고민하는 게으른 개발자 김건주입니다. 
 <br>
 
 ## 🏅 Education 🏅
@@ -9,7 +9,6 @@
 ## 🛠️ Stacks 🛠️  
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white">
-<img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
 <br>
 <br>
